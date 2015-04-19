@@ -1,0 +1,21 @@
+
+#highlighter: pygments
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      title: "Machiavelli"
+
+author:
+  name: glasnt
+  bio: Before all else, be graphed.
+  github: machiavellian
+  twitter: glasnt
+
+sidebar: 
+   - talks:
+     title: talks
+     url: /talks	  
+
